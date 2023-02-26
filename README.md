@@ -37,6 +37,7 @@ rrr : Выполняем rra и rrb одновременно.
 
 Запуск проверки Ecole:
 
+
   make
   
   ARG="4 67 3 87 23"; ./push_swap $ARG | ./checker_Mac $ARG
